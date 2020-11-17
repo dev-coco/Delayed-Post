@@ -3,7 +3,7 @@
     "name": "Delayed Post",
     "description": "设置延时发布Facebook贴文。",
     "author": "dev-coco",
-    "version": "1.0",
+    "version": "1.0.1",
     "browser_action": {
       "default_icon": "icon.png"
     },
